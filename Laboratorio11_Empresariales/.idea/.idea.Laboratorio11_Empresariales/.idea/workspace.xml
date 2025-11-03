@@ -8,7 +8,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bd2873b-51d5-4137-b002-c6ea8dba22ad" name="Changes" comment="" />
+    <list default="true" id="9bd2873b-51d5-4137-b002-c6ea8dba22ad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Laboratorio11_Empresariales/Laboratorio11_Empresariales.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratorio11_Empresariales/Laboratorio11_Empresariales.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laboratorio11_Empresariales/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratorio11_Empresariales/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laboratorio11_Empresariales/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratorio11_Empresariales/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laboratorio11_Empresariales/obj/Debug/net9.0/Laboratorio11_Empresariales.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratorio11_Empresariales/obj/Debug/net9.0/Laboratorio11_Empresariales.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laboratorio11_Empresariales/obj/Debug/net9.0/Laboratorio11_Empresariales.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratorio11_Empresariales/obj/Debug/net9.0/Laboratorio11_Empresariales.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laboratorio11_Empresariales/obj/Debug/net9.0/Laboratorio11_Empresariales.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratorio11_Empresariales/obj/Debug/net9.0/Laboratorio11_Empresariales.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laboratorio11_Empresariales/obj/Debug/net9.0/Laboratorio11_Empresariales.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratorio11_Empresariales/obj/Debug/net9.0/Laboratorio11_Empresariales.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laboratorio11_Empresariales/obj/Debug/net9.0/Laboratorio11_Empresariales.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratorio11_Empresariales/obj/Debug/net9.0/Laboratorio11_Empresariales.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laboratorio11_Empresariales/obj/Laboratorio11_Empresariales.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratorio11_Empresariales/obj/Laboratorio11_Empresariales.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laboratorio11_Empresariales/obj/Laboratorio11_Empresariales.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratorio11_Empresariales/obj/Laboratorio11_Empresariales.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laboratorio11_Empresariales/obj/Laboratorio11_Empresariales.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratorio11_Empresariales/obj/Laboratorio11_Empresariales.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laboratorio11_Empresariales/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratorio11_Empresariales/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laboratorio11_Empresariales/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratorio11_Empresariales/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laboratorio11_Empresariales/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratorio11_Empresariales/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laboratorio11_Empresariales/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratorio11_Empresariales/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,9 +33,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="34nOanGRYzqZBhiZS3Ip4fZAEnS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,6 +46,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -83,6 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1761845938679</updated>
       <workItem from="1761845939075" duration="1572000" />
+      <workItem from="1762122481707" duration="1913000" />
     </task>
     <servers />
   </component>
